@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "Project - ",
+      "templates": [
+        "99. Templates/Project template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1. Projects",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "1. Projects",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "Company",
+              "tags",
+              "Areas",
+              "Start-date",
+              "End-date",
+              "path"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "159b36b8-2be6-4d55-bc4c-bc55a5a4a85d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fbfc8868-77ca-42f5-922c-166f19c1971d",
+      "name": "All Projects"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

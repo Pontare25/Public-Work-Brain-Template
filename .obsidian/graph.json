@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"99 - Meta/00 - Templates\"  -path:\"06 - Periodic notes\"  -tag:#Type/Person",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Type/Person  ",
+      "color": {
+        "a": 1,
+        "rgb": 3135502
+      }
+    },
+    {
+      "query": "tag:#Type/Meeting  ",
+      "color": {
+        "a": 1,
+        "rgb": 934881
+      }
+    },
+    {
+      "query": "tag:#Type/Company  ",
+      "color": {
+        "a": 1,
+        "rgb": 8568584
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.2498278345390605,
+  "close": true
+}

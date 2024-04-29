@@ -1,0 +1,50 @@
+div:not(.cm-active).HyperMD-header:before {
+  content: "...";
+  font-family: sans-serif;
+  display: inline-block;
+  letter-spacing: .05em;
+  line-height: .30em;
+  width: 4px;
+  height: 1.1em;
+  margin: 0;
+  margin-right: 6px;
+  padding: 0;
+  vertical-align: middle;
+  transform: translate(0.40em, 0);
+  color: var(--color-accent);
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  text-align: center;
+}
+
+div:not(.cm-active).HyperMD-header:hover:before {
+  display: none;
+}
+
+div:not(.cm-active).HyperMD-header-1:before {
+  content: ".";
+}
+
+div:not(.cm-active).HyperMD-header-2:before {
+  content: "..";
+}
+
+div:not(.cm-active).HyperMD-header-3:before {
+  content: "...";
+}
+
+div:not(.cm-active).HyperMD-header-4:before {
+  content: "..\A..";
+  width: 0.5em;
+}
+
+div:not(.cm-active).HyperMD-header-5:before {
+  content: "...\A..";
+  width: 0.5em;
+}
+
+div:not(.cm-active).HyperMD-header-6:before {
+  content: "...\A...";
+  width: 0.5em;
+}
+

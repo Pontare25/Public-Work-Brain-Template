@@ -1,0 +1,108 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%"
+  },
+  {
+    "char": "SUM::",
+    "color": "54, 231, 196",
+    "icon": "lucide-bookmark-check",
+    "custom": true
+  },
+  {
+    "char": "AI::",
+    "color": "253, 217, 38",
+    "icon": "lucide-clipboard-check",
+    "custom": true
+  },
+  {
+    "char": "tags::",
+    "color": "115, 0, 255",
+    "icon": "lucide-tags",
+    "custom": true
+  },
+  {
+    "char": "POS::",
+    "color": "3, 158, 0",
+    "icon": "lucide-thumbs-up",
+    "custom": true
+  },
+  {
+    "char": "NEG::",
+    "color": "255, 0, 0",
+    "icon": "lucide-thumbs-down",
+    "custom": true
+  },
+  {
+    "char": "HIGH::",
+    "color": "255, 234, 0",
+    "icon": "lucide-star",
+    "custom": true
+  },
+  {
+    "char": "IDEA::",
+    "color": "255, 200, 0",
+    "icon": "lucide-lightbulb",
+    "custom": true
+  },
+  {
+    "char": "LOG::",
+    "color": "158, 158, 158",
+    "icon": "lucide-quote",
+    "custom": true
+  },
+  {
+    "char": "DoD::",
+    "color": "255, 0, 0",
+    "icon": "lucide-target",
+    "custom": true
+  },
+  {
+    "char": "REL::",
+    "color": "0, 17, 255",
+    "icon": "links-going-out",
+    "custom": true
+  },
+  {
+    "char": "Search::",
+    "color": "0, 191, 255",
+    "icon": "lucide-search",
+    "custom": true
+  },
+  {
+    "char": "Type::",
+    "color": "255, 0, 0",
+    "icon": "lucide-file-type",
+    "custom": true
+  },
+  {
+    "char": "URL::",
+    "color": "0, 75, 250",
+    "icon": "lucide-link-2",
+    "custom": true
+  }
+]

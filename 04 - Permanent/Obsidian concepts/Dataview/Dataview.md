@@ -1,0 +1,4 @@
+---
+Parents:
+  - "[[Community plugins]]"
+---

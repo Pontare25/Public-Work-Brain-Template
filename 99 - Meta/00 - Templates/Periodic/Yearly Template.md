@@ -1,0 +1,4 @@
+---
+tags:
+  - "#Type/Periodic/Yearly"
+---

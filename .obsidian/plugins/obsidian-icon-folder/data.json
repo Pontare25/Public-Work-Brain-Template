@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "◻",
+      "⬜",
+      "♻",
+      "🌐",
+      "🃏"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "00 - MOCs": "🌎",
+  "01 - Projects": "💼",
+  "03 - Resources": "📚",
+  "04 - Permanent": "🗄",
+  "06 - Periodic notes": "🗓",
+  "07 - Archives": "🗑",
+  "08 - Meetings": "🏢",
+  "99 - Meta": "🃏",
+  "05 - Inbox": "📥",
+  "02 - Areas": "♻",
+  "98 - Canvas": "◻"
+}

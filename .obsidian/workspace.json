@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "2d09dd4851abaf75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c235f15eabe81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb69e3128416960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Periodic notes/02 - Weekly/24w18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cf746804dd2c759",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bb9043360641c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a943e5570a3aa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9c76258eddb603e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2248b1270cda475b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "88c6bde4c652e9b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8532744e7c4e3ece",
+        "type": "tabs",
+        "dimension": 33.428030303030305,
+        "children": [
+          {
+            "id": "2536742456a7a335",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e2c5f2ba0337c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7cbcca1ed3556c36",
+        "type": "tabs",
+        "dimension": 66.5719696969697,
+        "children": [
+          {
+            "id": "69707d229993d137",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "06 - Periodic notes/02 - Weekly/24w18.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Type/Periodic  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65505
+                      }
+                    },
+                    {
+                      "query": "tag:#Type/Person  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 489970
+                      }
+                    },
+                    {
+                      "query": "tag:#Type/Meeting  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6098367
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9021904538743692,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "8519006facd0d51c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Periodic notes/02 - Weekly/24w18.md"
+              }
+            }
+          },
+          {
+            "id": "cb3ac6cbcf93f0ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
+              }
+            }
+          },
+          {
+            "id": "78f78ccc7a57c5d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Periodic notes/02 - Weekly/24w18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d31c6485d9e05d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Periodic notes/02 - Weekly/24w18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf8c3309fc278322",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "14e9cde736c03fee",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "bfb69e3128416960",
+  "lastOpenFiles": [
+    "06 - Periodic notes/01 - Daily/2024-04-29.md",
+    "08 - Meetings/00 - Meeting-series/Workshop A.md",
+    "99 - Meta/00 - Templates/Meeting-series template.md",
+    "01 - Projects/Project A/Project A.md",
+    "02 - Areas/02 - Work/01 - Assignments/Assignment A/Assignment A.md",
+    "01 - Projects/Project B/Project B.md",
+    "99 - Meta/00 - Templates/Update existing/Insert topic section.md",
+    "99 - Meta/00 - Templates/Inbox note template.md",
+    "99 - Meta/00 - Templates/Meeting template.md",
+    "08 - Meetings/2024/W18/24w18d1- this is a workshop.md",
+    "08 - Meetings/2024/W18",
+    "08 - Meetings/2024",
+    "99 - Meta/00 - Templates/Project templates/Project template.md",
+    "05 - Inbox/This is a really cool idea.md",
+    "99 - Meta/00 - Templates/Project templates/Assignment Template.md",
+    "00 - MOCs/03 - Work/01 - Assignments MOC.md",
+    "07 - Archives/01 - Inactive Projects/Project B/Project A0.md",
+    "00 - MOCs/03 - Work/02 - Projects MOC.md",
+    "01 - Projects/Project B2/Project B2.md",
+    "01 - Projects/Project B2",
+    "01 - Projects/Project A2/Project A2.md",
+    "01 - Projects/Project A2",
+    "00 - MOCs/00 - Home.md",
+    "02 - Areas/02 - Work/01 - Assignments/Assignment B/Assignment B.md",
+    "01 - Projects/Project A/this is an event.md",
+    "08 - Meetings/2024/W18/24w18d1- this is the meeting note name.md",
+    "excalibrain.md",
+    "99 - Meta/Reference notes/People/Personsson, Person.md",
+    "99 - Meta/00 - Templates/Reference notes templates/People template.md",
+    "06 - Periodic notes/01 - Daily/2024-04-30.md",
+    "01 - Projects/Project B",
+    "02 - Areas/02 - Work/01 - Assignments/Assignment B",
+    "07 - Archives/01 - Inactive Projects/Project B",
+    "02 - Areas/02 - Work/01 - Assignments/Assignment A",
+    "00 - MOCs/03 - Work",
+    "00 - MOCs/02 - Personal"
+  ]
+}

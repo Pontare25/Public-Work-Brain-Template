@@ -1,0 +1,10 @@
+{
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@card-highlight-light": true,
+  "Appearance-light@@workspace-divider-transparent-light": false,
+  "Plugin@@colorful-checkbox": false,
+  "Editor@@codeblock-style-select": "codeblock-style-customize",
+  "Editor@@callout-style-select": "callout-style-customize",
+  "Mobile@@card-layout-pad-open": true,
+  "Components@@outline-enhanced": false
+}
